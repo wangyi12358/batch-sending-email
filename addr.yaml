@@ -1,2 +1,2 @@
-Host: smtp.qq.com
-Port: 25
+host: smtp.qq.com
+port: 25
